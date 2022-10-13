@@ -1,4 +1,5 @@
 # 2 Layer Nueral Network in numpy
+#Practice from Python all-in-one Book 4 Using AI Chapter 2
 #Builing a simple nueral network
 #The goal of this project is to implement a 3-input XNOR gate with inputs X1, X2, X3 and have Y1 to be the result.
 
